@@ -2,7 +2,7 @@
 
 
 - :cherry_blossom: I'm an IT student
-- :seedling: I’m currently learning React.js
+- :seedling: I’m currently learning Flask
 - :smile: Pronouns: He/Him
 
 ### Languages practiced and tools used :
@@ -22,5 +22,4 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=40 alt="Node.js" />](#)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width=40 alt="LaTeX" />](#)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width=40 alt="Flask" />](#)
-
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40 alt="Git" />](#)
