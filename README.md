@@ -2,7 +2,7 @@
 
 
 - :cherry_blossom: I'm an IT student
-- :seedling: I’m currently learning CanvasJS
+- :seedling: I’m currently learning d3JS
 - :smile: Pronouns: He/Him
 
 ### Languages practiced and tools used :
