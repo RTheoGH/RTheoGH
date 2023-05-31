@@ -2,7 +2,7 @@
 
 
 - :cherry_blossom: I'm an IT student
-- :seedling: I’m currently learning Flask
+- :seedling: I’m currently learning CanvasJS
 - :smile: Pronouns: He/Him
 
 ### Languages practiced and tools used :
