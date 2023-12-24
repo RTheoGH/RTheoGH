@@ -2,7 +2,7 @@
 
 
 - :cherry_blossom: I'm an IT student
-- :seedling: I’m currently learning d3JS
+- :seedling: I’m currently learning ...
 - :smile: Pronouns: He/Him
 
 ### Languages practiced and tools used :
@@ -23,3 +23,6 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width=40 alt="LaTeX" />](#)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width=40 alt="Flask" />](#)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40 alt="Git" />](#)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width=40 alt="Docker" />](#)
+          
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width=40 alt="socketio" />](#)
