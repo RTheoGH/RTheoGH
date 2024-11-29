@@ -6,8 +6,8 @@
 - :smile: Pronouns: He/Him
 
 ### Languages practiced and tools used :
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width=40 alt="GitHub" />]
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width=40 alt="GitLab" />]
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width=40 alt="GitHub" />](#)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width=40 alt="GitLab" />](#)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40 alt="Git" />](#)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 alt="HTML5" />](#)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 alt="CSS3" />](#)
