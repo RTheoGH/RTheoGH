@@ -2,7 +2,7 @@
 
 
 - :cherry_blossom: I'm an IT student
-- :seedling: I’m currently learning ...
+- :seedling: I’m currently learning GDScript / Godot
 - :smile: Pronouns: He/Him
 
 ### Languages practiced and tools used :
@@ -30,7 +30,10 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg" width=40 alt="discordjs" />](#)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width=40 alt="express "/>](#)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width=40 alt="spring" />](#)
-
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width=40 alt="cpp" />](#)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width=40 alt="godot"/>](#)
+          
+          
           
           
           
