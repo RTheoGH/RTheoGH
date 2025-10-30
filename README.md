@@ -2,10 +2,6 @@
 
 Actuellement étudiant en informatique graphique et technologies interactives.
 
-## Autres liens :
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=40 alt="linkedin" />](https://www.linkedin.com/in/theo-reynier)
-[<img src="https://static.itch.io/images/itchio-textless-black.svg" width=40 alt="itch" />](https://azouuuu.itch.io/)
-
 ## Langages et outils :
 
 ### Game Development
